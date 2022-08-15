@@ -27,6 +27,6 @@ spec:
         pathType: Prefix
         backend:
           service: 
-            name: moose`-svc
+            name: moose-svc
             port: 
               number: 80
